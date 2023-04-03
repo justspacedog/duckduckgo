@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "duckduckgo-search",
+  "name": "duckduckgo",
   "title": "DuckDuckGo Search",
   "description": "DuckDuckGo search with autosuggestions",
   "icon": "duckduckgo.png",
